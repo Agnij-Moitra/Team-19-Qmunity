@@ -6,9 +6,7 @@
   Members: Agnij Moitra, Isabella, Harpreet_Wazir and Pranav Srikanth
 ### Welcome to our project! 
 
-Using this, you can:
-* Use a quantum algorithm to predict new stock prices.
-* Make informed choices of stocks to invest in.
+A Quantum Portfolio Optimizer
 
 #### Problem statement:
 For as long as they have existed, stock markets have played a crucial role in the lives of all of us as they allow us to make financial gains, and a strengthened economy leads to an improved quality of life overall. However, most of these calculations in working out which markets to invest in are done by classical computers which have many limits. For example, they are unable to process large amounts of data at one time and also are slower in their computation times and as more data is generated on the conditions of stock markets around the world, we need to find a quicker method of predicting stock markets and shares around the world in order to continue predicting at the same rate that we are at the moment else we will be unable to keep up with the increasing amount of data that we have. Building more and more classical computers is not going to solve the problem as the amount of data rises, they will still be slow and unable to process the data; we need to find a new solution which can process large quantities of data at quicker speeds. We cannot only rely on quantum computing, however, because the technology has not fully been developed yet. However, by using a hybrid of the two, specifically VQE, we can use a combination of the two methods to find the best possible stocks to buy, without being limited by time, storage or available technology.
